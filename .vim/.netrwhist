@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/bayhaqi'
+let g:netrw_dirhist_8='/home/bayhaqi/Documents/Assignment/sandbox/python/django/mysite/polls/templates/polls'
+let g:netrw_dirhist_7='/home/bayhaqi/.vim/bundle'
+let g:netrw_dirhist_6='/home/bayhaqi'
+let g:netrw_dirhist_5='/home/bayhaqi/Documents/Assignment/Github-repository/backup_code/web/django_site/django_site'
+let g:netrw_dirhist_4='/home/bayhaqi/Documents/Assignment/Github-repository/backup_code/web/django_site'
+let g:netrw_dirhist_3='/home/bayhaqi/Documents/Assignment/Github-repository/backup_code/web/django_site/django_site'
+let g:netrw_dirhist_2='/home/bayhaqi/Documents/Assignment/Github-repository/backup_code/web/django_site/polls'
+let g:netrw_dirhist_1='/home/bayhaqi'
+let g:netrw_dirhist_0='/home/bayhaqi/Documents/Assignment/sandbox/python/django/mysite/polls'
